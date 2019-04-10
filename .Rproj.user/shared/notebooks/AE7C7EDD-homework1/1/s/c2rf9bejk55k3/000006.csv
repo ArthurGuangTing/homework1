@@ -1,0 +1,7 @@
+"0","b <- c(studentID==""046S6f645"" & schoolYear==100 & credit>0)"
+"0","gpa100ChosenStudent <- sum(b*grade*credit)/credit100ChosenStudent"
+"0","gpa100ChosenStudent"
+"1","[1]"
+"1"," 67.2619"
+"1","
+"
