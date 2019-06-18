@@ -1,0 +1,17 @@
+"0","commitCheck"
+"1","$message
+"
+"1","[1]"
+"1"," ""API rate limit exceeded for 120.126.194.203. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)"""
+"1","
+"
+"1","
+"
+"1","$documentation_url
+"
+"1","[1]"
+"1"," ""https://developer.github.com/v3/#rate-limiting"""
+"1","
+"
+"1","
+"
